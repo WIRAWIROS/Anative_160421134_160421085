@@ -7,6 +7,7 @@ class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         //dikaaa
         //wiraaaa
+        //fixbro
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
     }
