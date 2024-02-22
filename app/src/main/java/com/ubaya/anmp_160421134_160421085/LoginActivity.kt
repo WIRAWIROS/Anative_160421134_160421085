@@ -5,6 +5,9 @@ import android.os.Bundle
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        //tes
+        //teasdwa
+        //teasdwasdawds
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
     }
