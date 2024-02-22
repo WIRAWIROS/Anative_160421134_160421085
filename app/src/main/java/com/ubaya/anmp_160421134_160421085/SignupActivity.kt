@@ -4,6 +4,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class SignupActivity : AppCompatActivity() {
+    /// I Gusti Agung Wira - 160421134
+    /// Dwi Andika Slamet B - 160421085
+
     ///dsfsdf
     ///dsfssa
 
