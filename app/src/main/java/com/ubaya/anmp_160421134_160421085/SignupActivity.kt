@@ -6,6 +6,9 @@ import android.os.Bundle
 class SignupActivity : AppCompatActivity() {
     ///dsfsdf
     ///dsfssa
+
+    //dikaaa
+    //wadwasdaw
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
